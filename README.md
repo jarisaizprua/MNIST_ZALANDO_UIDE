@@ -1,12 +1,3 @@
-# MNIST ZALANDO
-
-## Grupo 4 - Integrantes
-* EDGAR DANIEL SULCA NARANJO
-* GABRIELA ESTEFANIA CHILIQUINGA JIMENEZ
-* KAREN LISSETTE PLAZA JIMENEZ
-* MARJURY LISBETH DIAZ HARO
-* JARIS SURYA AIZPRUA BARRIOS
-
 ## 1) Contenido
 * Cargar los datos de entrenamiento y prueba desde archivos CSV.
 * Preparar y normalizar los datos para el modelo.
